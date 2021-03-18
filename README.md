@@ -9,7 +9,7 @@
 
 ## ツール
 * Photoshop
-* Dreamweaver
+* VScode
 
 ## 言語
 * HTML
